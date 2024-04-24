@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hammad5421
+- 👋 Hi, I’m @Hammad Nazir
 - 👀 I’m interested in Web development/AI/ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Mern stack projects
