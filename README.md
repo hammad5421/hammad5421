@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Mern stack projects
 - 📫 How to reach me @hammad.nazira7@gmail.com
 - 😄 Pronouns: Madi
-- ⚡ Fun fact: I just learned New languages like pytohn.
+- ⚡ Fun fact: I just learned New language like python.
 
 <!---
 hammad5421/hammad5421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
