@@ -11,7 +11,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 
 <a href="https://in.linkedin.com/in/rohankokkula" target="_blank">
-  <img align="left" alt="Rohan Kokkula | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/hammad-ahmad-24529a219)" />
+  <img align="left" alt="Rohan Kokkula | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/hammad-ahmad-24529a219]" />
 </a>
 <a href="mailto:rohankokkula01@gmail.com" target="_blank">
   <img align="left" alt="Mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
