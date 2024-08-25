@@ -1,6 +1,6 @@
-<h1 align="center"> Namaste! I'm <a href="https://in.linkedin.com/in/rohankokkula"><b>Rohan Kokkula</b></a>.
-<h3 align="center">Growth Developer | Data Science Enthusiast |<a href="https://public.tableau.com/profile/rohan.kokkula#!/"><b> Tableau Analyst</b></a> | Weblancer | UI/UX Designer </h3></h1>
-A Data Science practitioner who thrives to leverage Startups using AI-based solutions along with Web Development and a blend of UI/UX Designing</h3>
+<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/hammad-ahmad-24529a219"><b>Hammad Nazir Ahmad</b></a>.
+<h3 align="center">Software engineer | Web developer | UI/UX Designer </h3></h1>
+A Full Stack Engineer specializing in AI-enhanced web solutions, combining React, Node.js, and Tailwind with a keen focus on UI/UX design. Passionate about driving startup success through innovative, user-centric applications and emerging technologies.</h3>
 <h4></h4>
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project..
 <br>
@@ -11,7 +11,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 
 <a href="https://in.linkedin.com/in/rohankokkula" target="_blank">
-  <img align="left" alt="Rohan Kokkula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rohan Kokkula | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/hammad-ahmad-24529a219)" />
 </a>
 <a href="mailto:rohankokkula01@gmail.com" target="_blank">
   <img align="left" alt="Mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
